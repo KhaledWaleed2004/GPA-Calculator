@@ -1,0 +1,46 @@
+
+.container{
+    max-width: 90%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    margin: 30px;
+}
+table{
+    margin-top: 30px;
+}
+.display-none{
+    display: none;
+}
+tbody td{
+    text-transform: uppercase;
+}
+.col{
+    margin-bottom: 20px;
+}
+.gpa-result {
+    
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .footer .copyright {
+    padding: 25px 0;
+    text-align: center;
+    color: #fff;
+    margin: 50px 0 0;
+    color: black;
+    border-top: 1px solid #444;
+    font-size: 20px;
+  }
+  .footer .copyright span a {
+    color: #853a05;
+    font-size: 22px;
+  }
+  .image{
+    max-width: 100%;
+    text-align: center;
+  }
+  .image img{
+    width: 540px;
+  }
